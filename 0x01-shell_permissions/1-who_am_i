@@ -1,3 +1,4 @@
 #!/bin/bash
-whoam1
+whoami
+
 
